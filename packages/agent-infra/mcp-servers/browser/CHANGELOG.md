@@ -1,5 +1,153 @@
 # @agent-infra/mcp-server-browser
 
+## 1.2.3
+
+### Patch Changes
+
+- 9a5a933: feat: add custom entry
+- 20aabee: feat: support getRequestContext
+- feat: support logger
+- 0eb2630: feat: add server custom logger
+- Updated dependencies [9a5a933]
+- Updated dependencies [20aabee]
+- Updated dependencies
+- Updated dependencies [0eb2630]
+  - mcp-http-server@1.2.1
+
+## 1.2.3-beta.2
+
+### Patch Changes
+
+- feat: add server custom logger
+- Updated dependencies
+  - mcp-http-server@1.2.1-beta.2
+
+## 1.2.3-beta.1
+
+### Patch Changes
+
+- feat: add custom entry
+- Updated dependencies
+  - mcp-http-server@1.2.1-beta.1
+
+## 1.2.3-beta.0
+
+### Patch Changes
+
+- feat: support getRequestContext
+- Updated dependencies
+  - mcp-http-server@1.2.1-beta.0
+
+## 1.2.2
+
+### Patch Changes
+
+- chore: support custom logger
+
+## 1.2.1
+
+### Patch Changes
+
+- chore: support custom logger
+
+## 1.2.0
+
+### Minor Changes
+
+- 7bbc77b: feat: upgrade mcp version to ~1.13
+
+### Patch Changes
+
+- Updated dependencies [7bbc77b]
+  - mcp-http-server@1.2.0
+
+## 1.2.0-beta.0
+
+### Minor Changes
+
+- feat: upgrade mcp version to ~1.13
+
+### Patch Changes
+
+- Updated dependencies
+  - mcp-http-server@1.2.0-beta.0
+
+## 1.1.10
+
+### Patch Changes
+
+- fix(mcp-browser): session closed, most likely the page has been closed
+
+## 1.1.9
+
+### Patch Changes
+
+- fix(mcp-browser): active page browser about:blank
+
+## 1.1.8
+
+### Patch Changes
+
+- fix: esm not import bug
+
+## 1.1.7
+
+### Patch Changes
+
+- fix: popup page should be activePage
+
+## 1.1.6
+
+### Patch Changes
+
+- db0fdff: chore: update
+- 04ce241: fix: add test cases
+- bafcd01: chore: support viewport size runtime
+- a85ef50: chore: publish
+- docs: readme
+- 445541b: fix(browser): user agent bug
+- 0f74298: fix: viewportSize
+- 792a2a7: fix: factors type
+- d0878b8: feat: support vision mode
+- Updated dependencies [a85ef50]
+  - @ui-tars/action-parser@1.2.2
+
+## 1.1.6-beta.10
+
+### Patch Changes
+
+- c050e6a: fix: add test cases
+
+## 1.1.6-beta.9
+
+### Patch Changes
+
+- fix: factors type
+
+## 1.1.6-beta.8
+
+### Patch Changes
+
+- fix(browser): user agent bug
+
+## 1.1.6-beta.7
+
+### Patch Changes
+
+- fix: viewportSize
+
+## 1.1.6-beta.6
+
+### Patch Changes
+
+- chore: support viewport size runtime
+
+## 1.1.6-beta.5
+
+### Patch Changes
+
+- chore: update
+
 ## 1.1.6-beta.4
 
 ### Patch Changes
